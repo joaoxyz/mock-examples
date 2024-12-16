@@ -1,9 +1,3 @@
-'''
-- spec
-- patch decorator
-- patch object
-'''
-
 import requests
 
 def get_time():
